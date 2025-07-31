@@ -55,7 +55,14 @@
 
 ---
 
-### Let's Connect!
+## 🐍 Watch My Contribution Snake 🐍
+
+![GitHub Snake Light](https://github.com/santanu-dudey/santanu-dudey/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/santanu-dudey/santanu-dudey/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
+### 🌐 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
