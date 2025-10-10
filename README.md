@@ -65,6 +65,6 @@
 ### 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/santanu-dubey-a5764732b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:santanudubey.code@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
