@@ -57,10 +57,13 @@
 
 ## 🐍 Watch My Contribution Snake 🐍
 
-![GitHub Snake Light](https://github.com/santanu-dudey/santanu-dudey/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/santanu-dudey/santanu-dudey/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanu-Dubey/Santanu-Dubey/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santanu-Dubey/Santanu-Dubey/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Santanu-Dubey/Santanu-Dubey/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ### 🌐 Let's Connect!
 
