@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **DSA, React Native, and Backend Development**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/santanu-dudey)
 - 💬 Ask me about **C++, JavaScript, Web Development**
-- 📫 Reach me at **santanudubey.code@gmail.com**
+- 📫 Reach me at **santanudubey07@gmail.com**
 - ⚡ Fun fact: I love **drawing and photography** 📸🎨
 
 ---
