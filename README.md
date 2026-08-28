@@ -30,14 +30,16 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santanu-dudey&show_icons=true&theme=radical" alt="Santanu's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanu-dudey&layout=compact&theme=radical" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Santanu-Dubey&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santanu-Dubey&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Santanu-Dubey&theme=radical&hide_border=true" />
+</p>
 ---
 
 ## 🧠 Certifications:
