@@ -1,0 +1,33 @@
+name: Daily Contribution
+
+on:
+  schedule:
+    # Runs every day at 12:05 AM IST (18:35 UTC)
+    - cron: "35 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update timestamp
+        run: |
+          echo "Last Updated: $(date -u)" > .last_updated
+
+      - name: Commit changes
+        run: |
+          git config user.name "Santanu-Dubey"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .last_updated
+
+          git diff --staged --quiet || git commit -m "chore: daily contribution 🤖"
+
+          git push
