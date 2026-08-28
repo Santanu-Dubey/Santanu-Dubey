@@ -66,23 +66,6 @@ const santanu = {
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santanu-Dubey&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Santanu-Dubey&theme=radical&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ---
 
