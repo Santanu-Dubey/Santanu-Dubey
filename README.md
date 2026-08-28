@@ -149,9 +149,7 @@ const santanu = {
 
 <div align="center">
 
-## ✨ Bengali Corner
-
-> **"স্বপ্ন দেখি বলেই, আজ কোড লিখি — কাল ভবিষ্যৎ গড়ি।"**
+<h3 align="center">✨ "Code. Create. Keep Building." ✨</h3>
 
 **Made with ❤️ in Kolkata**
 
